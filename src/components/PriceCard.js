@@ -34,7 +34,7 @@ function PriceCard(props) {
             </ul>
             
             <div className="d-grid">
-              <a href="#" className="btn btn-primary text-uppercase">Button</a>
+              <a href="https://startbootstrap.com/snippets/pricing-table" className="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
         </div>
